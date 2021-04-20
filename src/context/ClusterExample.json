@@ -1,0 +1,3660 @@
+{
+  "clusters": [
+    {
+      "id": "5d3627a96c59cb00015e2541",
+      "name": "Palladio Hotel Buenos Aires Mgallery",
+      "stars": 5,
+      "address": "AVENIDA CALLAO,924 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.5983331,
+        "longitude": -58.393396300000006
+      },
+      "images": [
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/64/641739/641739a_hb_f_006.jpg"
+        },
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/64/641739/641739a_hb_f_007.jpg"
+        },
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/64/641739/641739a_hb_f_004.jpg"
+        }
+      ],
+      "rank": 5,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "56",
+          "name": "Transporte al aeropuerto (de pago)"
+        },
+        {
+          "id": "3863",
+          "name": "Servicio de aparcacoches (gratis)"
+        },
+        {
+          "id": "4004",
+          "name": "Recogida gratis en el aeropuerto"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "6",
+          "name": "Servicios de niñera o guardería"
+        },
+        {
+          "id": "5054",
+          "name": "Gimnasio 24 horas"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "371",
+          "name": "Bañera de hidromasaje"
+        },
+        {
+          "id": "3601",
+          "name": "Baño turco o hammam"
+        },
+        {
+          "id": "2017",
+          "name": "Servicios de spa en las instalaciones"
+        },
+        {
+          "id": "2123",
+          "name": "Spa completo"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 116252.6280943193,
+          "base_rate": 35205.28508736,
+          "extra_cost": 81047.34,
+          "nightly_basis": 8801.32127184,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 35205.28508736,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 12,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 10561.585526208,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 16018.4047147488,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE SUPERIOR",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": true,
+          "fare": {
+            "base_rate": 35205.28508736,
+            "net_rate": 35205.28508736,
+            "nightly_basis": 8801.32,
+            "total": 109339.89434099072,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 35205.28508736,
+                "vat": 7393.1098683456,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 7051.057017472,
+                "vat": 1480.72197366912,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 12,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 10561.585526208,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 12321.849780576,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d40cce46c59cb00015e3cff",
+      "name": "Ramada by Wyndham Buenos Aires Centro",
+      "stars": 4,
+      "address": "Paraguay,857 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.597666,
+        "longitude": -58.379262
+      },
+      "images": [
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/07/077077/077077a_hb_a_011.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/07/077077/077077a_hb_a_013.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/07/077077/077077a_hb_a_006.jpg"
+        }
+      ],
+      "rank": 10,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 106966.4736098873,
+          "base_rate": 32389.89545088,
+          "extra_cost": 74576.57,
+          "nightly_basis": 8097.47386272,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 32389.89545088,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 9716.968635264,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 14737.4024301504,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE 1 Queen Bed Non-Smoking",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 32389.89545088,
+            "net_rate": 32389.89545088,
+            "nightly_basis": 8097.48,
+            "total": 100606.55568862976,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 32389.89545088,
+                "vat": 6801.8780446848,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 6487.979090176,
+                "vat": 1362.47560893696,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 9716.968635264,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 11336.463407808,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d40e3126c59cb00015e4a0e",
+      "name": "Key Hotels San Telmo",
+      "stars": 3,
+      "address": "MEXICO,840 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.6154739,
+        "longitude": -58.3781146
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/20/202601/202601a_hb_r_001.jpg"
+        },
+        {
+          "name": "Terraza",
+          "url": "https://statics.basset.la/giata/20/202601/202601a_hb_t_001.jpg"
+        },
+        {
+          "name": "Piscina",
+          "url": "https://statics.basset.la/giata/20/202601/202601a_hb_p_004.jpg"
+        }
+      ],
+      "rank": 10,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 59960.641162315274,
+          "base_rate": 18138.59974512,
+          "extra_cost": 41822.04,
+          "nightly_basis": 4534.64993628,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 18138.59974512,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 5441.579923536,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 8253.0628840296,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "JUNIOR SUITE VISTAS A LA CIUDAD",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 18138.59974512,
+            "net_rate": 18138.59974512,
+            "nightly_basis": 4534.65,
+            "total": 56399.03640936224,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 18138.59974512,
+                "vat": 3809.1059464752,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 3637.719949024,
+                "vat": 763.92118929504,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 5441.579923536,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 6348.509910792,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cff0d3c6fd6c60001b9a7b6",
+      "name": "Gardel Flats",
+      "stars": 3,
+      "address": "Carlos Gardel,3119 ",
+      "rating": null,
+      "category": {
+        "id": "22",
+        "name": "Apart-hotel"
+      },
+      "geo_location": {
+        "latitude": -34.603308,
+        "longitude": -58.408982
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/64/640742/640742a_hb_r_001.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/64/640742/640742a_hb_a_006.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/64/640742/640742a_hb_a_005.jpg"
+        }
+      ],
+      "rank": 20,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        }
+      ],
+      "rates": [
+        {
+          "total": 31441.923605768407,
+          "base_rate": 9492.2540496,
+          "extra_cost": 21949.67,
+          "nightly_basis": 2373.0635124,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 9492.2540496,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 2847.67621488,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 4318.975592568,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE STANDARD",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": true,
+          "fare": {
+            "base_rate": 9492.2540496,
+            "net_rate": 9492.2540496,
+            "nightly_basis": 2373.06,
+            "total": 29578.0720618592,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 9492.2540496,
+                "vat": 1993.373350416,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 1908.45080992,
+                "vat": 400.7746700832,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 2847.67621488,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3322.28891736,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfeddec6fd6c60001b93b04",
+      "name": "Napoleon",
+      "stars": 3,
+      "address": "Avenida Rivadavia,1364 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.6089289,
+        "longitude": -58.38565999999997
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/27/275254/275254a_hb_r_002.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/27/275254/275254a_hb_r_003.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/27/275254/275254a_hb_r_004.jpg"
+        }
+      ],
+      "rank": 21,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "4004",
+          "name": "Recogida gratis en el aeropuerto"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "369",
+          "name": "Lavandería"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 53901.21237602881,
+          "base_rate": 16301.49343416,
+          "extra_cost": 37599.72,
+          "nightly_basis": 4075.37335854,
+          "currency": "ARS",
+          "commission": 2280.50865432,
+          "agency_ceded_commission": null,
+          "markup": 16301.49343416,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 4890.448030248,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 7417.1795125428,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE STANDARD",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": true,
+          "fare": {
+            "base_rate": 16301.49343416,
+            "net_rate": 16301.49343416,
+            "nightly_basis": 4075.37,
+            "total": 50700.33263276432,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 2280.50865432,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 16301.49343416,
+                "vat": 3423.3136211736,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 3270.298686832,
+                "vat": 686.76272423472,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 4890.448030248,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 5705.522701956,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cf6bc3b36ee1e00016331eb",
+      "name": "Alto San Isidro",
+      "stars": 3,
+      "address": "3 de Febrero,68 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.469822,
+        "longitude": -58.517902
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/63/631141/631141a_hb_r_001.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/63/631141/631141a_hb_r_002.jpg"
+        },
+        {
+          "name": "Piscina",
+          "url": "https://statics.basset.la/giata/63/631141/631141a_hb_p_002.jpg"
+        }
+      ],
+      "rank": 25,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        }
+      ],
+      "rates": [
+        {
+          "total": 92877.50298729152,
+          "base_rate": 28118.38112856,
+          "extra_cost": 64759.12,
+          "nightly_basis": 7029.59528214,
+          "currency": "ARS",
+          "commission": 4738.59348984,
+          "agency_ceded_commission": null,
+          "markup": 28118.38112856,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 8435.514338568,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 12793.8634134948,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE CLASSIC",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 28118.38112856,
+            "net_rate": 28118.38112856,
+            "nightly_basis": 7029.6,
+            "total": 87356.31826079312,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 4738.59348984,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 28118.38112856,
+                "vat": 5904.8600369976,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 5633.676225712,
+                "vat": 1183.07200739952,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 8435.514338568,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 9841.433394996,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfedd3b6fd6c60001b938a9",
+      "name": "Hotel del Casco",
+      "stars": 4,
+      "address": "Avenida del Libertador,16.170 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.46806,
+        "longitude": -58.50934
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/27/270925/270925a_hb_r_001.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/27/270925/270925a_hb_a_032.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/27/270925/270925a_hb_a_033.jpg"
+        }
+      ],
+      "rank": 28,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "5054",
+          "name": "Gimnasio 24 horas"
+        },
+        {
+          "id": "4003",
+          "name": "Consigna de equipaje"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "2123",
+          "name": "Spa completo"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37497.8026388116,
+          "base_rate": 11328.28414128,
+          "extra_cost": 26169.52,
+          "nightly_basis": 2832.07103532,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11328.28414128,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3398.485242384,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5154.3692842824,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "Cama en habitación compartida LUXURY",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11328.28414128,
+            "net_rate": 11328.28414128,
+            "nightly_basis": 2832.07,
+            "total": 35273.43740625056,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11328.28414128,
+                "vat": 2378.9396696688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2275.656828256,
+                "vat": 477.88793393376,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3398.485242384,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3964.899449448,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfa8eb46fd6c60001b8df40",
+      "name": "Bristol",
+      "stars": 4,
+      "address": "CERRITO,286 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.605255,
+        "longitude": -58.382223
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/09/093914/093914a_hb_r_009.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/09/093914/093914a_hb_r_005.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/09/093914/093914a_hb_r_006.jpg"
+        }
+      ],
+      "rank": 29,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "369",
+          "name": "Lavandería"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37895.375002059445,
+          "base_rate": 11448.82070064,
+          "extra_cost": 26446.56,
+          "nightly_basis": 2862.20517516,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11448.82070064,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3434.646210192,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5209.2134187912,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "Habitación SUPERIOR",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11448.82070064,
+            "net_rate": 11448.82070064,
+            "nightly_basis": 2862.21,
+            "total": 35647.34181338528,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11448.82070064,
+                "vat": 2404.2523471344,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2299.764140128,
+                "vat": 482.95046942688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3434.646210192,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 4007.087245224,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d40fcc06c59cb00015e5d15",
+      "name": "HTL 9 de Julio Bs As",
+      "stars": 4,
+      "address": "Adolfo Alsina,1112 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.610877,
+        "longitude": -58.382059
+      },
+      "images": [
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/39/390039/390039a_hb_l_005.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/39/390039/390039a_hb_l_004.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/39/390039/390039a_hb_l_006.jpg"
+        }
+      ],
+      "rank": 29,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "56",
+          "name": "Transporte al aeropuerto (de pago)"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "4003",
+          "name": "Consigna de equipaje"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 54071.600531706456,
+          "base_rate": 16353.1519596,
+          "extra_cost": 37718.45,
+          "nightly_basis": 4088.2879899,
+          "currency": "ARS",
+          "commission": 3773.22479568,
+          "agency_ceded_commission": null,
+          "markup": 16353.1519596,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 4905.94558788,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 7440.684141618,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "HABITACIÓN 2 CAMAS STANDARD",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 16353.1519596,
+            "net_rate": 16353.1519596,
+            "nightly_basis": 4088.29,
+            "total": 50860.5773786792,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 3773.22479568,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 16353.1519596,
+                "vat": 3434.161911516,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 3280.63039192,
+                "vat": 688.9323823032,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 4905.94558788,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 5723.60318586,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfea9b16fd6c60001b90f44",
+      "name": "Le B Club Boutique & Terrasse",
+      "stars": 4,
+      "address": "Talcahuano,1253 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.593806,
+        "longitude": -58.385856
+      },
+      "images": [
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/07/077066/077066a_hb_l_015.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/07/077066/077066a_hb_a_011.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/07/077066/077066a_hb_a_012.jpg"
+        }
+      ],
+      "rank": 31,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 38970.950234774624,
+          "base_rate": 11774.91514248,
+          "extra_cost": 27196.03,
+          "nightly_basis": 2943.72878562,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11774.91514248,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3532.474542744,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5357.5863898284,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE STANDARD",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11774.91514248,
+            "net_rate": 11774.91514248,
+            "nightly_basis": 2943.73,
+            "total": 36658.88677197296,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11774.91514248,
+                "vat": 2472.7321799208,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2364.983028496,
+                "vat": 496.64643598416,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3532.474542744,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 4121.220299868,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cf6bc9436ee1e0001633299",
+      "name": "Up. Recoleta Hotel",
+      "stars": 3,
+      "address": "José León Pagano,2684 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.5844301,
+        "longitude": -58.3992753
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/63/632649/632649a_hb_r_001.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/63/632649/632649a_hb_r_002.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/63/632649/632649a_hb_l_001.jpg"
+        }
+      ],
+      "rank": 31,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "56",
+          "name": "Transporte al aeropuerto (de pago)"
+        },
+        {
+          "id": "4004",
+          "name": "Recogida gratis en el aeropuerto"
+        },
+        {
+          "id": "4003",
+          "name": "Consigna de equipaje"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 40710.32932398398,
+          "base_rate": 12302.26258968,
+          "extra_cost": 28408.07,
+          "nightly_basis": 3075.56564742,
+          "currency": "ARS",
+          "commission": 2231.00256744,
+          "agency_ceded_commission": null,
+          "markup": 12302.26258968,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3690.678776904,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5597.5294783044,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE CLASSIC",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": true,
+          "fare": {
+            "base_rate": 12302.26258968,
+            "net_rate": 12302.26258968,
+            "nightly_basis": 3075.57,
+            "total": 38294.71855318736,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 2231.00256744,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 12302.26258968,
+                "vat": 2583.4751438328,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2470.452517936,
+                "vat": 518.79502876656,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3690.678776904,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 4305.791906388,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cf6bbb036ee1e00016330f5",
+      "name": "AQ Tailored Suites",
+      "stars": 4,
+      "address": "Montevideo,937 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.596883,
+        "longitude": -58.389718
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/62/629126/629126a_hb_r_001.jpg"
+        },
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/62/629126/629126a_hb_f_001.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/62/629126/629126a_hb_l_001.jpg"
+        }
+      ],
+      "rank": 32,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "56",
+          "name": "Transporte al aeropuerto (de pago)"
+        },
+        {
+          "id": "4004",
+          "name": "Recogida gratis en el aeropuerto"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "5054",
+          "name": "Gimnasio 24 horas"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37497.8026388116,
+          "base_rate": 11328.28414128,
+          "extra_cost": 26169.52,
+          "nightly_basis": 2832.07103532,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11328.28414128,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3398.485242384,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5154.3692842824,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "JUNIOR SUITE DOS CAMAS DOBLES",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11328.28414128,
+            "net_rate": 11328.28414128,
+            "nightly_basis": 2832.07,
+            "total": 35273.43740625056,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11328.28414128,
+                "vat": 2378.9396696688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2275.656828256,
+                "vat": 477.88793393376,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3398.485242384,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3964.899449448,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfec0936fd6c60001b9256a",
+      "name": "Promenade",
+      "stars": 3,
+      "address": "Marcelo T. de Alvear 444,444 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.596176,
+        "longitude": -58.37371
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/16/163081/163081a_hb_r_005.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/16/163081/163081a_hb_a_006.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/16/163081/163081a_hb_l_001.jpg"
+        }
+      ],
+      "rank": 36,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37497.8026388116,
+          "base_rate": 11328.28414128,
+          "extra_cost": 26169.52,
+          "nightly_basis": 2832.07103532,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11328.28414128,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3398.485242384,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5154.3692842824,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "Habitación ECONOMY",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11328.28414128,
+            "net_rate": 11328.28414128,
+            "nightly_basis": 2832.07,
+            "total": 35273.43740625056,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11328.28414128,
+                "vat": 2378.9396696688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2275.656828256,
+                "vat": 477.88793393376,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3398.485242384,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3964.899449448,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d40d5506c59cb00015e41de",
+      "name": "Feirs Park Hotel & Rooftop",
+      "stars": 5,
+      "address": "ESMERALDA ,1366 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.591703,
+        "longitude": -58.378288
+      },
+      "images": [
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/13/131557/131557a_hb_f_008.jpg"
+        },
+        {
+          "name": "Deportes y Entretenimiento",
+          "url": "https://statics.basset.la/giata/13/131557/131557a_hb_f_007.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/13/131557/131557a_hb_r_006.jpg"
+        }
+      ],
+      "rank": 36,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "56",
+          "name": "Transporte al aeropuerto (de pago)"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "369",
+          "name": "Lavandería"
+        },
+        {
+          "id": "5054",
+          "name": "Gimnasio 24 horas"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "4437",
+          "name": "Tumbonas de playa"
+        },
+        {
+          "id": "4432",
+          "name": "Sombrillas de playa"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37224.47163907869,
+          "base_rate": 11245.41525672,
+          "extra_cost": 25979.05,
+          "nightly_basis": 2811.35381418,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11245.41525672,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 12,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3373.624577016,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5116.6639418076,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "Suite PREMIUM",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11245.41525672,
+            "net_rate": 11245.41525672,
+            "nightly_basis": 2811.36,
+            "total": 35016.37812634544,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11245.41525672,
+                "vat": 2361.5372039112,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2259.083051344,
+                "vat": 474.40744078224,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 12,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3373.624577016,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3935.895339852,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfede736fd6c60001b93cb7",
+      "name": "Lyon by MH",
+      "stars": 3,
+      "address": "Riobamba 251 251,251 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.6068,
+        "longitude": -58.39355
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/27/278486/278486a_hb_r_001.JPG"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/27/278486/278486a_hb_l_001.JPG"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/27/278486/278486a_hb_l_003.JPG"
+        }
+      ],
+      "rank": 36,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "4004",
+          "name": "Recogida gratis en el aeropuerto"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "369",
+          "name": "Lavandería"
+        },
+        {
+          "id": "4003",
+          "name": "Consigna de equipaje"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 44579.560359163974,
+          "base_rate": 13475.34160488,
+          "extra_cost": 31104.22,
+          "nightly_basis": 3368.83540122,
+          "currency": "ARS",
+          "commission": 1944.72823896,
+          "agency_ceded_commission": null,
+          "markup": 13475.34160488,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 4042.602481464,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 6131.2804302204,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE STANDARD",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 13475.34160488,
+            "net_rate": 13475.34160488,
+            "nightly_basis": 3368.84,
+            "total": 41933.60965833776,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 1944.72823896,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 13475.34160488,
+                "vat": 2829.8217370248,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2705.068320976,
+                "vat": 568.06434740496,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 4042.602481464,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 4716.369561708,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfb0b1a6fd6c60001b8f742",
+      "name": "Carlton",
+      "stars": 4,
+      "address": "LIBERTAD,1180 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.594703,
+        "longitude": -58.384479
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/39/398179/398179a_hb_r_001.jpg"
+        },
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/39/398179/398179a_hb_l_001.jpg"
+        },
+        {
+          "name": "Conferencias",
+          "url": "https://statics.basset.la/giata/39/398179/398179a_hb_k_002.jpg"
+        }
+      ],
+      "rank": 39,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37497.8026388116,
+          "base_rate": 11328.28414128,
+          "extra_cost": 26169.52,
+          "nightly_basis": 2832.07103532,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11328.28414128,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3398.485242384,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5154.3692842824,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE EXECUTIVE",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11328.28414128,
+            "net_rate": 11328.28414128,
+            "nightly_basis": 2832.07,
+            "total": 35273.43740625056,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11328.28414128,
+                "vat": 2378.9396696688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2275.656828256,
+                "vat": 477.88793393376,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3398.485242384,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3964.899449448,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfafdba6fd6c60001b8ec76",
+      "name": "Maitre",
+      "stars": 4,
+      "address": "ARCE,385 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.5706,
+        "longitude": -58.4312
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/18/181633/181633a_hb_r_001.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/18/181633/181633a_hb_r_002.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/18/181633/181633a_hb_a_052.jpg"
+        }
+      ],
+      "rank": 39,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "3912",
+          "name": "Terraza en la azotea"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37497.8026388116,
+          "base_rate": 11328.28414128,
+          "extra_cost": 26169.52,
+          "nightly_basis": 2832.07103532,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11328.28414128,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3398.485242384,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5154.3692842824,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "Habitación EXECUTIVE SUPERIOR",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11328.28414128,
+            "net_rate": 11328.28414128,
+            "nightly_basis": 2832.07,
+            "total": 35273.43740625056,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11328.28414128,
+                "vat": 2378.9396696688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2275.656828256,
+                "vat": 477.88793393376,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3398.485242384,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 3964.899449448,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfe87a16fd6c60001b902d7",
+      "name": "Golf Tower Suites & Apartments",
+      "stars": 3,
+      "address": "LA PAMPA,1117 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.556959,
+        "longitude": -58.441122
+      },
+      "images": [
+        {
+          "name": "Vestíbulo",
+          "url": "https://statics.basset.la/giata/08/084430/084430a_hb_l_005.jpeg"
+        },
+        {
+          "name": "Terraza",
+          "url": "https://statics.basset.la/giata/08/084430/084430a_hb_t_001.jpeg"
+        },
+        {
+          "name": "Terraza",
+          "url": "https://statics.basset.la/giata/08/084430/084430a_hb_t_002.jpg"
+        }
+      ],
+      "rank": 41,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "2070",
+          "name": "Servicio de tintorería/lavandería"
+        },
+        {
+          "id": "369",
+          "name": "Lavandería"
+        },
+        {
+          "id": "3912",
+          "name": "Terraza en la azotea"
+        },
+        {
+          "id": "5054",
+          "name": "Gimnasio 24 horas"
+        },
+        {
+          "id": "4003",
+          "name": "Consigna de equipaje"
+        },
+        {
+          "id": "2004",
+          "name": "Cafetería"
+        },
+        {
+          "id": "4432",
+          "name": "Sombrillas de playa"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        },
+        {
+          "id": "2001",
+          "name": "Desayuno gratis"
+        }
+      ],
+      "rates": [
+        {
+          "total": 37895.375002059445,
+          "base_rate": 11448.82070064,
+          "extra_cost": 26446.56,
+          "nightly_basis": 2862.20517516,
+          "currency": "ARS",
+          "commission": 0,
+          "agency_ceded_commission": null,
+          "markup": 11448.82070064,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 4,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 3434.646210192,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 5209.2134187912,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE 1 O 2 CAMAS SUPERIOR",
+          "meal_plan": "ROOM_ONLY",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 11448.82070064,
+            "net_rate": 11448.82070064,
+            "nightly_basis": 2862.21,
+            "total": 35647.34181338528,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "markup",
+                "amount": 11448.82070064,
+                "vat": 2404.2523471344,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 2299.764140128,
+                "vat": 482.95046942688,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 4,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 3434.646210192,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 4007.087245224,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d410aa76c59cb00015e6720",
+      "name": "L'Adresse Hôtel",
+      "stars": 4,
+      "address": "Bolivar,1491 ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.625337,
+        "longitude": -58.372628
+      },
+      "images": [
+        {
+          "name": "Terraza",
+          "url": "https://statics.basset.la/giata/63/631582/631582a_hb_t_001.jpg"
+        },
+        {
+          "name": "Terraza",
+          "url": "https://statics.basset.la/giata/63/631582/631582a_hb_t_002.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/63/631582/631582a_hb_a_005.jpg"
+        }
+      ],
+      "rank": 46,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        }
+      ],
+      "rates": [
+        {
+          "total": 60358.21352556313,
+          "base_rate": 18259.13630448,
+          "extra_cost": 42099.07,
+          "nightly_basis": 4564.78407612,
+          "currency": "ARS",
+          "commission": 2697.00551568,
+          "agency_ceded_commission": null,
+          "markup": 18259.13630448,
+          "fees": [
+            {
+              "type": "mandatory_fee",
+              "amount": 8,
+              "vat": 0,
+              "currency": "USD"
+            },
+            {
+              "type": "PAIS",
+              "amount": 5477.740891344,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 8307.9070185384,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "DOBLE VISTAS A LA CIUDAD",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 18259.13630448,
+            "net_rate": 18259.13630448,
+            "nightly_basis": 4564.79,
+            "total": 56772.94081649696,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 2697.00551568,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 18259.13630448,
+                "vat": 3834.4186239408,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 3661.827260896,
+                "vat": 768.98372478816,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "mandatory_fee",
+                "amount": 8,
+                "currency": "USD",
+                "original_currency": {
+                  "currency_codey": "USD",
+                  "ratio": 1
+                },
+                "collector": "provider"
+              },
+              {
+                "type": "PAIS",
+                "amount": 5477.740891344,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 6390.697706568,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5cfb039c6fd6c60001b8f37d",
+      "name": "Sofitel La Reserva Cardales",
+      "stars": 5,
+      "address": "RUTA PANAMERICANA N 9 KM 61, ",
+      "rating": null,
+      "category": {
+        "id": "1",
+        "name": "Hotel"
+      },
+      "geo_location": {
+        "latitude": -34.2735578154835,
+        "longitude": -58.8986469735391
+      },
+      "images": [
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/19/198970/198970a_hb_r_001.jpg"
+        },
+        {
+          "name": "Restaurante",
+          "url": "https://statics.basset.la/giata/19/198970/198970a_hb_r_002.jpg"
+        },
+        {
+          "name": "Vista general",
+          "url": "https://statics.basset.la/giata/19/198970/198970a_hb_a_030.jpg"
+        }
+      ],
+      "rank": 49,
+      "amenities": [
+        {
+          "id": "1073742906",
+          "name": "Aparcamiento en las instalaciones"
+        },
+        {
+          "id": "2063",
+          "name": "Recepción abierta las 24 horas"
+        },
+        {
+          "id": "1073743395",
+          "name": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+        },
+        {
+          "id": "3863",
+          "name": "Servicio de aparcacoches (gratis)"
+        },
+        {
+          "id": "6",
+          "name": "Servicios de niñera o guardería"
+        },
+        {
+          "id": "3",
+          "name": "Bar o lounge"
+        },
+        {
+          "id": "19",
+          "name": "Restaurante"
+        },
+        {
+          "id": "2135",
+          "name": "Sauna"
+        },
+        {
+          "id": "371",
+          "name": "Bañera de hidromasaje"
+        }
+      ],
+      "rates": [
+        {
+          "total": 295823.99541234726,
+          "base_rate": 89647.98980472,
+          "extra_cost": 206176.01,
+          "nightly_basis": 22411.99745118,
+          "currency": "ARS",
+          "commission": 12265.67113416,
+          "agency_ceded_commission": null,
+          "markup": 89647.98980472,
+          "fees": [
+            {
+              "type": "PAIS",
+              "amount": 26894.396941416,
+              "vat": 0,
+              "currency": "ARS"
+            },
+            {
+              "type": "RG4815/20",
+              "amount": 40789.8353611476,
+              "vat": 0,
+              "currency": "ARS"
+            }
+          ],
+          "name": "HABITACIÓN 2 CAMAS Superior Room with twin beds",
+          "meal_plan": "FREE_BREAKFAST",
+          "provider": "HOTELBEDS",
+          "source": "HOTELBEDS",
+          "type": "STANDALONE",
+          "refundable": false,
+          "fare": {
+            "base_rate": 89647.98980472,
+            "net_rate": 89647.98980472,
+            "nightly_basis": 22412,
+            "total": 278221.16437424143,
+            "currency": "ARS",
+            "original_currency": {
+              "currency_codey": "EUR",
+              "ratio": 107.621928
+            },
+            "charges": [
+              {
+                "type": "commission",
+                "amount": 12265.67113416,
+                "vat": 0,
+                "currency": "ARS",
+                "collector": "provider"
+              },
+              {
+                "type": "markup",
+                "amount": 89647.98980472,
+                "vat": 18826.0778589912,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "operating_cost",
+                "amount": 100,
+                "vat": 21,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "admin_cost",
+                "amount": 17939.597960944,
+                "vat": 3767.31557179824,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ],
+            "fees": [
+              {
+                "type": "PAIS",
+                "amount": 26894.396941416,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              },
+              {
+                "type": "RG4815/20",
+                "amount": 31376.796431652,
+                "currency": "ARS",
+                "collector": "AGENCY"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "total": 251,
+  "limit": 20,
+  "offset": 0,
+  "filters": {
+    "amenities": [
+      {
+        "value": "3",
+        "label": "Bar o lounge"
+      },
+      {
+        "value": "6",
+        "label": "Servicios de niñera o guardería"
+      },
+      {
+        "value": "9",
+        "label": "Gimnasio"
+      },
+      {
+        "value": "10",
+        "label": "Transporte al aeropuerto gratuito"
+      },
+      {
+        "value": "14",
+        "label": "Piscina cubierta"
+      },
+      {
+        "value": "19",
+        "label": "Restaurante"
+      },
+      {
+        "value": "24",
+        "label": "Piscina al aire libre"
+      },
+      {
+        "value": "40",
+        "label": "Salón de peluquería"
+      },
+      {
+        "value": "41",
+        "label": "Cajero automático o banco"
+      },
+      {
+        "value": "43",
+        "label": "Servicios de conserjería"
+      },
+      {
+        "value": "56",
+        "label": "Transporte al aeropuerto (de pago)"
+      },
+      {
+        "value": "81",
+        "label": "Espacio para conferencias"
+      },
+      {
+        "value": "324",
+        "label": "Té o café en las zonas comunes"
+      },
+      {
+        "value": "361",
+        "label": "Desayuno disponible (de pago)"
+      },
+      {
+        "value": "369",
+        "label": "Lavandería"
+      },
+      {
+        "value": "371",
+        "label": "Bañera de hidromasaje"
+      },
+      {
+        "value": "375",
+        "label": "Sala de juegos electrónicos o de mesa"
+      },
+      {
+        "value": "400",
+        "label": "Bar junto a la piscina"
+      },
+      {
+        "value": "2000",
+        "label": "Bar en la piscina"
+      },
+      {
+        "value": "2001",
+        "label": "Desayuno gratis"
+      },
+      {
+        "value": "2004",
+        "label": "Cafetería"
+      },
+      {
+        "value": "2008",
+        "label": "Centro de bienestar"
+      },
+      {
+        "value": "2010",
+        "label": "Discoteca"
+      },
+      {
+        "value": "2014",
+        "label": "Piscina infantil"
+      },
+      {
+        "value": "2017",
+        "label": "Servicios de spa en las instalaciones"
+      },
+      {
+        "value": "2063",
+        "label": "Recepción abierta las 24 horas"
+      },
+      {
+        "value": "2064",
+        "label": "Recepción (horario limitado)"
+      },
+      {
+        "value": "2065",
+        "label": "Centro de negocios"
+      },
+      {
+        "value": "2067",
+        "label": "Check-out rápido"
+      },
+      {
+        "value": "2070",
+        "label": "Servicio de tintorería/lavandería"
+      },
+      {
+        "value": "2072",
+        "label": "Servicio de limusina o coche con chófer disponible"
+      },
+      {
+        "value": "2074",
+        "label": "Piscina"
+      },
+      {
+        "value": "2123",
+        "label": "Spa completo"
+      },
+      {
+        "value": "2129",
+        "label": "Salas de tratamiento spa"
+      },
+      {
+        "value": "2131",
+        "label": "Salas de reuniones - 7"
+      },
+      {
+        "value": "2135",
+        "label": "Sauna"
+      },
+      {
+        "value": "2137",
+        "label": "Establecimiento libre de humos"
+      },
+      {
+        "value": "2138",
+        "label": "Piscina al aire libre de temporada"
+      },
+      {
+        "value": "2177",
+        "label": "Check-in exprés"
+      },
+      {
+        "value": "2186",
+        "label": "Club infantil"
+      },
+      {
+        "value": "2353",
+        "label": "Transporte al aeropuerto"
+      },
+      {
+        "value": "2387",
+        "label": "Asistencia turística y para la compra de entradas"
+      },
+      {
+        "value": "2390",
+        "label": "Wifi (gratis)"
+      },
+      {
+        "value": "2391",
+        "label": "Wifi (de pago)"
+      },
+      {
+        "value": "2420",
+        "label": "Baño accesible en silla de ruedas"
+      },
+      {
+        "value": "2423",
+        "label": "Habitación accesible"
+      },
+      {
+        "value": "2529",
+        "label": "Transporte por la zona (de pago)"
+      },
+      {
+        "value": "2538",
+        "label": "Centro de negocios 24 horas"
+      },
+      {
+        "value": "2617",
+        "label": "Campo de golf en las instalaciones"
+      },
+      {
+        "value": "2618",
+        "label": "Pista de tenis en las instalaciones"
+      },
+      {
+        "value": "2818",
+        "label": "Tobogán acuático"
+      },
+      {
+        "value": "2943",
+        "label": "Transporte al casino (de pago)"
+      },
+      {
+        "value": "2945",
+        "label": "Transporte a la terminal de cruceros (de pago)"
+      },
+      {
+        "value": "2947",
+        "label": "Transporte a la terminal de ferris (de pago)"
+      },
+      {
+        "value": "2948",
+        "label": "Transporte al centro comercial (gratis)"
+      },
+      {
+        "value": "2949",
+        "label": "Transporte al centro comercial (de pago)"
+      },
+      {
+        "value": "2951",
+        "label": "Transporte al parque temático (de pago)"
+      },
+      {
+        "value": "3372",
+        "label": "Centro de conferencias"
+      },
+      {
+        "value": "3500",
+        "label": "Snack bar/deli"
+      },
+      {
+        "value": "3601",
+        "label": "Baño turco o hammam"
+      },
+      {
+        "value": "3637",
+        "label": "Una sala de reuniones"
+      },
+      {
+        "value": "3761",
+        "label": "Aparcamiento (plazas limitadas)"
+      },
+      {
+        "value": "3861",
+        "label": "Aparcamiento sin asistencia (gratis)"
+      },
+      {
+        "value": "3862",
+        "label": "Aparcamiento sin asistencia (de pago)"
+      },
+      {
+        "value": "3863",
+        "label": "Servicio de aparcacoches (gratis)"
+      },
+      {
+        "value": "3864",
+        "label": "Servicio de aparcacoches (de pago)"
+      },
+      {
+        "value": "3865",
+        "label": "Sala de ordenadores"
+      },
+      {
+        "value": "3912",
+        "label": "Terraza en la azotea"
+      },
+      {
+        "value": "4003",
+        "label": "Consigna de equipaje"
+      },
+      {
+        "value": "4004",
+        "label": "Recogida gratis en el aeropuerto"
+      },
+      {
+        "value": "4006",
+        "label": "Recogida en el aeropuerto (de pago)"
+      },
+      {
+        "value": "4007",
+        "label": "Traslado al aeropuerto (de pago)"
+      },
+      {
+        "value": "4010",
+        "label": "Recogida en la estación de ferrocarril (de pago)"
+      },
+      {
+        "value": "4422",
+        "label": "Transporte a las pistas de esquí (de pago)"
+      },
+      {
+        "value": "4432",
+        "label": "Sombrillas de playa"
+      },
+      {
+        "value": "4436",
+        "label": "Cabañas de piscina (gratis)"
+      },
+      {
+        "value": "4437",
+        "label": "Tumbonas de playa"
+      },
+      {
+        "value": "4438",
+        "label": "Tumbonas de piscina"
+      },
+      {
+        "value": "4451",
+        "label": "Aparcamiento a largo plazo (de pago)"
+      },
+      {
+        "value": "4453",
+        "label": "Aparcamiento para autocaravanas, autobuses y camiones (de pago)"
+      },
+      {
+        "value": "4514",
+        "label": "Terraza"
+      },
+      {
+        "value": "4696",
+        "label": "Servicio de niñera o guardería (de pago)"
+      },
+      {
+        "value": "4699",
+        "label": "Guardería/actividades supervisadas (gratis)"
+      },
+      {
+        "value": "4700",
+        "label": "Guardería/actividades supervisadas (de pago)"
+      },
+      {
+        "value": "5054",
+        "label": "Gimnasio 24 horas"
+      },
+      {
+        "value": "1073742906",
+        "label": "Aparcamiento en las instalaciones"
+      },
+      {
+        "value": "1073742907",
+        "label": "Conexión a Internet"
+      },
+      {
+        "value": "1073743306",
+        "label": "Traslado a la estación de tren (recargo)"
+      },
+      {
+        "value": "1073743395",
+        "label": "Wifi limitada (con recargo en función del número de dispositivos) - 1"
+      },
+      {
+        "value": "1073743549",
+        "label": "Piscina abierta las 24 horas"
+      },
+      {
+        "value": "1073743877",
+        "label": "Dispensador de agua"
+      }
+    ],
+    "category": [
+      {
+        "value": "1",
+        "label": "Hotel"
+      },
+      {
+        "value": "7",
+        "label": "Condo"
+      },
+      {
+        "value": "9",
+        "label": "Cabin"
+      },
+      {
+        "value": "12",
+        "label": "Hostel/Backpacker accommodation"
+      },
+      {
+        "value": "16",
+        "label": "Apartment"
+      },
+      {
+        "value": "22",
+        "label": "Apart-hotel"
+      }
+    ],
+    "stars": [
+      {
+        "value": "5",
+        "label": "5"
+      },
+      {
+        "value": "4",
+        "label": "4"
+      },
+      {
+        "value": "3",
+        "label": "3"
+      },
+      {
+        "value": "2",
+        "label": "2"
+      }
+    ],
+    "price": [
+      {
+        "value": "1700",
+        "label": "MIN"
+      },
+      {
+        "value": "88670",
+        "label": "MAX"
+      }
+    ]
+  },
+  "sorting": {
+    "options": ["price_asc", "price_desc", "rating", "rank"],
+    "selected": "rank"
+  },
+  "region_name": "Buenos Aires (y alrededores), Argentina",
+  "pages": 13
+}
