@@ -6,7 +6,7 @@
 
 Es una App de test en la que implemente dentro de los requerimientos Typescript, lo cual nunca habia implementado porque siempre use Proptypes. Para esto tuve que investigar la documentación durante 1 día para ver como era la dinamica del lenguaje.
 
-Respecto al estilo, aunque suelo usar sass porque me parece mas armonioso, debido a que uno de los requerimientos era usar StyleComponent utilize todo StyleComponent e inlineStyle.
+Respecto al estilo, aunque suelo usar sass porque me parece mas armonioso, debido a que uno de los requerimientos era no usar librerias extra de las enunciadas utilize todo inlineStyle, y el style que ofrece Materials UI.
 
 A su ves para evitar que se supere el maximo de request de la Api puse un Bypass en el catch;
 
