@@ -19,3 +19,6 @@ A su ves para evitar que se supere el maximo de request de la Api puse un Bypass
 * Utilizar la [nueva api de Context de react](https://reactjs.org/docs/context.html)
 * Utilizar FlexBox
 * Utilizar Typescript
+
+
+## La app fue deployed con Vercel CLI https://test-app-ibti1u57j-eyacar.vercel.app/
